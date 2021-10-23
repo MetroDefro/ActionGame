@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ae8b56a768425a344af47d08a0f03371
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cPos1: {instanceID: 0}
+  - cPos2: {instanceID: 0}
+  - cPos3: {instanceID: 0}
+  - missile: {fileID: 4808272806191109800, guid: eed66e01eb2cc6e4085273a3ef4b41f6,
+      type: 3}
+  - missilePosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
